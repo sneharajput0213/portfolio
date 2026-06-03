@@ -1,16 +1,107 @@
-# React + Vite
+# Sneha Rajput Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built with React, Vite, Tailwind CSS, and Framer Motion to showcase my projects, skills, education, and contact information.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Portfolio: https://your-portfolio-link.vercel.app/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Responsive design for all devices
+* Smooth animations with Framer Motion
+* Project showcase with GitHub and Live Demo links
+* Education & Experience timeline
+* About Me section
+* Contact form integrated with EmailJS
+* Social media links
+* Modern UI with Tailwind CSS
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+
+* React.js
+* Vite
+* Tailwind CSS
+* Framer Motion
+* React Icons
+
+### Services
+
+* EmailJS (Contact Form)
+* Vercel (Deployment)
+
+## Featured Projects
+
+### Glowe E-Commerce
+
+Full-stack e-commerce platform featuring authentication, product management, cart functionality, checkout flow, and admin dashboard.
+
+**Tech:** React, Node.js, Express, MongoDB
+
+### AI Career & Resume Analyzer
+
+AI-powered application that analyzes resumes, provides ATS scores, suggests job roles, identifies skill gaps, and validates GitHub profiles.
+
+**Tech:** React, Node.js, MongoDB, Groq AI
+
+### Smart Budget Tracker
+
+Personal finance application for tracking income, expenses, and spending habits.
+
+**Tech:** React, JavaScript, Local Storage
+
+### Smart Helmet
+
+Final year engineering project focused on rider safety using IoT sensors and embedded systems.
+
+**Tech:** Arduino, Embedded Systems, IoT
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sneharajput0213/portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Contact
+
+**Sneha Rajput**
+
+📧 [sneharajput0203@gmail.com](mailto:sneharajput0203@gmail.com)
+
+🔗 LinkedIn: https://www.linkedin.com/in/sneha-rajput2/
+
+🔗 GitHub: https://github.com/sneharajput0213
+
+📍 Kalyan, Maharashtra
+
+## License
+
+This project is open source and available under the MIT License.
